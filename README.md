@@ -29,3 +29,4 @@ There are few steps to deploy this project:
 * deploy this project using "Tomcat" local server
 
 ```
+Otherwise you can just click here: https://my-taxiservice.herokuapp.com/login
