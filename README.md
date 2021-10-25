@@ -4,6 +4,8 @@ In this web-application we can registrate or authenticate a driver, create new c
 can add driver to a car and look at the list of all cars that our driver use.
 
 # ❓ How to use it:
+https://my-taxiservice.herokuapp.com/login
+
 1️⃣ Crate new driver - it's you account (login and password).
 
 2️⃣ Login.
@@ -26,7 +28,7 @@ In project these technologies have been used:
 * Log4j2
 ```
 
-## To start a project you must have:
+## To start a project by your own you must have:
 1️⃣ IDE for Java.
 
 2️⃣ MySQL or other DBMS (but you mush correct class ConnectionUtil and your DB).
@@ -43,5 +45,3 @@ src/main/java/mate/util/ConnectionUtil.java
 ```
 
 5️⃣ Run Tomcat 🚀
-
-Otherwise you can just click here: https://my-taxiservice.herokuapp.com/login
