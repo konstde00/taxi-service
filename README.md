@@ -12,7 +12,7 @@ can add driver to a car and look at the list of all cars that our driver use.
 - create new car, manufacturer, add manufacturer to car, driver to car, 
 - look all drivers, cars and others,
 - also you can delete some information
-- 
+
 # Technologies and version:
 - Java 11.
 - MySQL.
