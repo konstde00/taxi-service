@@ -39,6 +39,7 @@ src/main/java/mate/util/ConnectionUtil.java
     private static final String URL = "url DB";
     private static final String USERNAME = "YOUR_USERNAME";
     private static final String PASSWORD = "YOUR_PASSWORD";
+    private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver"; (or you can use different one)
 ```
 
 5️⃣ Run Tomcat 🚀
