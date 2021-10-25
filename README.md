@@ -26,10 +26,13 @@ In project these technologies have been used:
 * Log4j2
 ```
 
-##🔧  To start a project you must have:
+## To start a project you must have:
 1️⃣ IDE for Java.
+
 2️⃣ MySQL or other DBMS (but you mush correct class ConnectionUtil and your DB).
+
 3️⃣ Create your database using init_db.sql file located in src/main/resources/init_db.sql
+
 4️⃣ Configure connection to DB for:
 src/main/java/mate/util/ConnectionUtil.java
 ```java
@@ -37,6 +40,7 @@ src/main/java/mate/util/ConnectionUtil.java
     private static final String USERNAME = "YOUR_USERNAME";
     private static final String PASSWORD = "YOUR_PASSWORD";
 ```
+
 5️⃣ Run Tomcat 🚀
 
 Otherwise you can just click here: https://my-taxiservice.herokuapp.com/login
