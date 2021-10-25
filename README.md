@@ -13,13 +13,6 @@ can add driver to a car and look at the list of all cars that our driver use.
 - look all drivers, cars and others,
 - also you can delete some information
 
-# Technologies and version:
-- Java 11.
-- MySQL.
-- Maven.
-- Javax servlet API and Jstl.
-- Tomcat 9.0.53 (You can't use Tomcat version 10+).
-
 ## Technologies
 In project these technologies have been used:
 ```
